@@ -1,1 +1,32 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Meine Jekyll-Website
+description: >- 
+  Eine kurze Beschreibung meiner Website.
+  Dieser Text wird in den Meta-Tags der Website verwendet.
+baseurl: "" # Das Basis-URL, wenn deine Website nicht in der Root liegt.
+url: "https://username.github.io" # Deine GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman # Wähle ein Theme für deine Website
+
+# Permalink settings
+permalink: /:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Dein Name"
+
+# Other settings
+paginate: 5 # Anzahl der Beiträge pro Seite
+paginate_path: "/page/:num/"
