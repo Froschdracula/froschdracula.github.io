@@ -1,0 +1,2 @@
+- Kontaktiere mich direkt, falls du selbst zum ersten Mal spielst oder du jemanden mitbringen möchtest, der zum ersten Mal spielt.
+- Du kannst eine vollständige Gruppe organisieren, oder dein Glück im LFG versuchen.
