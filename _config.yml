@@ -1,10 +1,9 @@
 # Site settings
-title: Meine Jekyll-Website
+title: Fuchsbau
 description: >- 
-  Eine kurze Beschreibung meiner Website.
-  Dieser Text wird in den Meta-Tags der Website verwendet.
+  Das schwarze Brett der Fuchsbau-Taverne.
 baseurl: "" # Das Basis-URL, wenn deine Website nicht in der Root liegt.
-url: "https://username.github.io" # Deine GitHub Pages URL
+url: "https://froschdracula.github.io" # Deine GitHub Pages URL
 
 # Build settings
 markdown: kramdown
